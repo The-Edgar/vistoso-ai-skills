@@ -1,0 +1,28 @@
+{
+  "name": "nano-banana-artist",
+  "description": "Create any visuals with Nano Banana 2 in seconds.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Edgar Rootalu",
+    "email": "edgar@vistoso.ai",
+    "url": "https://vistoso.ai"
+  },
+  "homepage": "https://vistoso.ai",
+  "repository": "https://github.com/The-Edgar/vistoso-ai-skills",
+  "license": "MIT",
+  "keywords": [
+    "gemini pro",
+    "nano-banana-2",
+    "Ad creatives",
+    "UI mockups",
+    "image generation",
+    "visual design",
+    "branding",
+    "logo design",
+    "icon design",
+    "banner design",
+    "social media design",
+    "email design",
+    "landing page design"
+  ]
+}

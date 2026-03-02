@@ -1,0 +1,27 @@
+# API keys — never commit these
+.gemini_api_key
+gemini_api_key
+*.key
+
+# Environment
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Generated images
+*.png
+*.jpg
+*.jpeg
+*.webp
+!**/references/**
+
+# IDE
+.vscode/
+.idea/

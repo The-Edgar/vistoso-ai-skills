@@ -1,0 +1,14 @@
+{
+  "name": "vistoso-ai-skills",
+  "owner": {
+    "name": "Vistoso.ai",
+    "email": "help@vistoso.ai"
+  },
+  "plugins": [
+    {
+      "name": "nano-banana-artist",
+      "source": "./nano-banana-artist",
+      "description": "Create any visuals with Nano Banana 2 (Gemini image generation) in seconds."
+    }
+  ]
+}
