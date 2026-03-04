@@ -1,6 +1,6 @@
 # Nano Banana Artist
 
-Create stunning images with natural language using Google's Gemini 3.1 Flash Image model — right inside Claude Code.
+Create stunning images with natural language like a high end creative director using Google's Gemini 3.1 Flash Image model — right inside Claude Code.
 
 > Built by [Vistoso.ai](https://vistoso.ai)
 
