@@ -97,7 +97,7 @@ def call_gemini_api(prompt, aspect_ratio="1:1", output_path="generated_image.png
         contents[0]["parts"].append({"text": prompt})
     
     # Build generation config
-    # Map image_size to outputImageSize parameter
+    # Map image_size to ImageSize parameter
     size_map = {
         '512': '512',
         '1K': '1024',
@@ -109,7 +109,7 @@ def call_gemini_api(prompt, aspect_ratio="1:1", output_path="generated_image.png
     generation_config = {
         "imageConfig": {
             "aspectRatio": aspect_ratio,
-            "outputImageSize": output_image_size,
+            "ImageSize": output_image_size,
         }
     }
     
